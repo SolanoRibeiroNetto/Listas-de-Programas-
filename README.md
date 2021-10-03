@@ -3,6 +3,8 @@ Essa lista tem intenção de me lembrar de todos programas e coisas essências d
 
 # Programas Essencias Windows
 
+DRIVE PLACA DE VIDEO
+
 STEAM
 
 DISCORD
@@ -28,4 +30,25 @@ VLC
 WIRAR
 
 # Ambiente de Desenvolvimento
+
+VISUAL STUDIO CODE (VS CODE)
+
+GIT
+
+PHP
+
+COMPOSER
+
+CHOCOLATEY
+
+YARN
+
+NODE JS (https://react-native.rocketseat.dev/android/windows)
+
+POSTGRESQL
+
+MYSQL
+
+
+
 
